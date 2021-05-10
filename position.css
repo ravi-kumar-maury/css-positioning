@@ -1,0 +1,17 @@
+.out{
+  background-color:red;
+  width:300px;
+  height:300px;
+  position:relative;
+}
+.in{
+  background-color:blue;
+  width:100px;
+  height:100px;
+  position:absolute;
+  top:50%;
+  left:50%;
+  transform:translate(-50%,-50%);
+}
+
+}
